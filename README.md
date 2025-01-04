@@ -198,16 +198,12 @@ GROUP BY shift
 
 This project is a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings can help drive business decisions by understanding sales patterns, customer behaviour, and product performance.
 
-##Skills Learned
+## Skills Learned
 
 ![Database Setup](https://img.shields.io/badge/Database%20Setup-00599C?style=for-the-badge&logo=database&logoColor=white)
-
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-007396?style=for-the-badge&logo=datascience&logoColor=white)
-
 ![EDA](https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge&logo=data-analysis&logoColor=white)
-
 ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-1D72B8?style=for-the-badge&logo=data&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
